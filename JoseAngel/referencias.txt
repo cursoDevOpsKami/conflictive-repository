@@ -1,0 +1,8 @@
+REFERENCIAS
+
+- W3SCHOOL
+- https://www.cyberciti.biz/faq/bash-for-loop/
+- https://stackoverflow.com/questions/49110/how-do-i-write-a-for-loop-in-bash
+- https://youtu.be/1J9l1IMUe7Q?si=IiEYGDFi_DwKn9mE
+
+
